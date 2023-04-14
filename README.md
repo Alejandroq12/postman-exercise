@@ -1,4 +1,4 @@
-# GeoGuru
+# 🌐 GeoGuru
 GeoGuru is a beginner-friendly boilerplate designed for practicing web app development. It provides a simple framework for retrieving data from an API, making it an ideal starting point to understand how to make GET requests. 
 
 # 👥 Authors
