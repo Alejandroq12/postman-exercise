@@ -8,6 +8,6 @@ GeoGuru is a beginner-friendly boilerplate designed for practicing web app devel
 - LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
 
 👤 Cristian Zambrano
-- GitHub: [@zamcham](https://github.com/zam-cham)
+- GitHub: [@zamcham](https://github.com/zamcham)
 - Twitter: [@zamchamgames](https://twitter.com/zamchamgames)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/cristian-zamcham)
